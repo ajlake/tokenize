@@ -1,0 +1,7 @@
+# github.com/gammazero/deque v0.1.0
+## explicit
+github.com/gammazero/deque
+# golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
+## explicit
+golang.org/x/image/draw
+golang.org/x/image/math/f64
